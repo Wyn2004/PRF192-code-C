@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/trinhquocthang/Documents/Workspace/C/FPTU/assignment 1/Group1",
+      "program": "/Users/trinhquocthang/Documents/Workspace/C/FPTU/assignment 1/Group1/build/Debug/outDebug"
+    }
+  ]
+}
